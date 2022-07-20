@@ -1,3 +1,4 @@
+/*notice that 'max-height' and 'overflow' makes the compoenet scrollable*/
 .cart-items {
   list-style: none;
   margin: 0;
